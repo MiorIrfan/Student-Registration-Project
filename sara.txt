@@ -1,0 +1,12 @@
+Sara Aliya binti Ahmad	156799
+Principles of Programming	CPT111	3	1	3.67
+Computer Organisation	CST131	4	1	3.67
+Discrete Structures	CPT112	4	1	3.33
+Programming Methodology and Data Structures	CPT113	3	2	4
+Foundation and Programming for Data Analytics	CPC152	4	2	3.67
+Fundamentals of Logic and Artificial Intelligence	CPC151	4	2	4
+Finance and Accounting	AKW104	4	2	3.67
+Database Organisations and Design	CMT221	4	3	3.67
+Operating Systems	CST232	3	3	3
+Design and Analysis of Algorithms	CPT212	4	3	3.33
+Introduction to Management	AKW103	4	3	3.67
