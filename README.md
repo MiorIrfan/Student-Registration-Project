@@ -12,3 +12,5 @@ This is the example input files:
 - sara.txt
 
 Note: This program is done by using the IDE, Dev C++ (Fully in C++)
+
+This project is a group work consists of 3 students including  myself
