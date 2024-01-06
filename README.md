@@ -13,4 +13,7 @@ This is the example input files:
 
 Note: This program is done by using the IDE, Dev C++ (Fully in C++)
 
-This project is a group work consists of 3 students including  myself
+This project is a group work consists of 3 students:
+1. Mior Muhammad Irfan
+2. Mohamad Nazmi
+3. Muhamamd Firdaus
